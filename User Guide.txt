@@ -1,0 +1,26 @@
+
+1. Installing Python IDLE:
+
+    1. Download and install Python IDLE from the link given below:
+
+              "https://www.python.org/downloads/"
+
+
+
+2.Installing pyttx3:
+ 
+    1. pyttsx3 library is needed to run the program
+    2. Install it using the pip command or use any one of the method mentioned below
+
+                Method 1:
+                            Open command prompt and run the following command:
+
+                                     pip install pyttsx3
+
+
+                Method 2:
+                            extract the pyttsx3.whl file from the zip and paste the path of it in command prompt
+               
+                                     pip intall <path>
+ 
+
